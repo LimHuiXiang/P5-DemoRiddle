@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoRiddle</string>
+    <string name="reveal">REVEAL</string>
+    <string name="a1"> "answer is :Queue" </string>
+</resources>
